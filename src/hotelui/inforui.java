@@ -13,7 +13,7 @@ import javax.swing.JTable;
 import javax.swing.JTextField;
 
 public class inforui extends JPanel{
-	
+	 
 	private final int name = 0;
 	private final int id = 1;
 	private final int tradearea = 2;
