@@ -12,6 +12,7 @@ import rmi.RMIClient;
 
 public class ClientRunner {
 //	static JFrame frame=new JFrame();
+//
 	
 	private RMIClient rmic;
 	
